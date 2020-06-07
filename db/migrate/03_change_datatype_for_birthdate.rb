@@ -1,1 +1,1 @@
-class ChangeDatatypeForBirthdate::
+class ChangeDatatypeForBirthdate::AvtiveRecord
